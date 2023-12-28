@@ -1,4 +1,4 @@
-I corrected the last part for the code to get the df but it didnt save, here it is the code:
+I corrected the last part for the code  of WEBSCRAPING to get the df but it didnt save, here it is the code:
 launch_dict= dict.fromkeys(column_names)
 
 # Remove an irrelvant column
